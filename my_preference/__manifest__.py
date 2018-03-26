@@ -15,7 +15,7 @@
     'category': 'Tools',
     'version': '0.1',
     'images':[
-        'static/description/pref.jpg'
+        'static/description/pref.jpg'],
       
     'depends': ['base'],
 
