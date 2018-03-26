@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 {
-    'name': "my_preference",
+    'name': "My Preference",
 
     'summary': """
         Edit my preference module""",
@@ -12,8 +12,10 @@
     'author': "Kusuma Ruslan",
     'website': "http://www.wangsamas.com",
 
-    'category': 'Extra Tools',
+    'category': 'Tools',
     'version': '0.1',
+    'images':[
+        'static/description/pref.jpg',
 
     'depends': ['base'],
 
